@@ -8,6 +8,7 @@ The system is written for those who are tired of animating the opening/ closing 
 ## Demostration:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MIbNPueOwEM/0.jpg)](https://www.youtube.com/watch?v=MIbNPueOwEM)
 
+Click on this video.
 #
 
 ### Ability to configure in the inspector:
