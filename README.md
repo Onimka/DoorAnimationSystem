@@ -16,4 +16,5 @@ The system is written for those who are tired of animating the opening/ closing 
  #### - Axis of rotation, which allows you to use the script as well for hatches, chests, etc.
 
 ### How to use?
-#### All you need to do is add a script to your door.
+#### 1.Import package.
+#### 2.Add component DoorAnimateSystem to your door.
