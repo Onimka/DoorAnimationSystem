@@ -3,7 +3,7 @@
 
 
 The system is written for those who are tired of animating the opening/ closing of doors, chests and other similar objects.
-  It is especially useful for those games where you want to make a variety of interactive objects, for example for horror games.
+  It is especially useful for those games where you want to make a different of interactive objects, for example for horror games.
   
 ## Demostration:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MIbNPueOwEM/0.jpg)](https://www.youtube.com/watch?v=MIbNPueOwEM)
